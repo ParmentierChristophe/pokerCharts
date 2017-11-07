@@ -15,7 +15,7 @@
 <div class="columns is-gapless">
 
  <!-- sidebar -->
- <div class="column is-3 green">
+ <div class="column is-3 side">
    <div class="column is-10 is-offset-1">
 
 <!-- Profil perso -->
