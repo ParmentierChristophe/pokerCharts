@@ -4,8 +4,8 @@ a place to organize your scores on poker
 
 ### Installation ###
 
-* type `git clone https://github.com/bestmomo/laravel5-5-example.git projectname` to clone the repository 
-* type `cd projectname`
+* type `git clone git@github.com:mthdht/pokerCharts.git` to clone the repository 
+* type `cd pokerCharts`
 * type `composer install`
 * type `composer update`
 * copy *.env.example* to *.env*
